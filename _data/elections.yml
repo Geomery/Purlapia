@@ -1,0 +1,8 @@
+- number: "1"
+  date: "30.08.26"
+  winner: "Имя_Игрока"
+  candidates:
+    - name: "Имя_Игрока"
+      votes: "50%"
+    - name: "Другой_Игрок"
+      votes: "50%"
