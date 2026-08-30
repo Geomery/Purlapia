@@ -5,7 +5,7 @@ title: Добро пожаловать в Пурлапию!
 
 Официальный информационный ресурс государства.
 
-* [Конституция Пурлапии]({% link constitution.md %})
-* [Постановления]({% link decrees.md %})
-* [Выборы Народного Депутата]({% link elections.md %})
-* [Список Буберний]({% link bubernias.md %})
+* [Конституция Пурлапии]({{ '/constitution/' | relative_url }})
+* [Постановления]({{ '/decrees/' | relative_url }})
+* [Выборы Народного Депутата]({{ '/elections/' | relative_url }})
+* [Список Буберний]({{ '/bubernias/' | relative_url }})
