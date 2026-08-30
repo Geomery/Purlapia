@@ -3,7 +3,7 @@ layout: page
 title: Выборы Народного Депутата
 permalink: /elections/
 ---
-## Действующий народный депутат:
+## **Действующий народный депутат: {{ election.now }}**
 {% for election in site.data.elections %}
 ### Выборы №{{ election.number }}
 * **Дата:** {{ election.date }}
