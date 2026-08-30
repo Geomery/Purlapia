@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Конституция Пурлапии**
+title: Конституция Пурлапии
 permalink: /constitution/
 ---
 
