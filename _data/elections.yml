@@ -12,7 +12,7 @@
     candidates:
       - name: "Имя_Игрока"
         votes: "60%"
-      - name: "Другой_Игрок"
+      - name: "Ещё_Игрок"
         votes: "40%"
 
 - number: "2"
