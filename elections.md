@@ -4,7 +4,7 @@ title: Выборы Народного Депутата
 permalink: /elections/
 ---
 
-## **Действующий народный депутат: Кто-то**
+## **Действующий Народный Депутат: Кто-то**
 {% for election in site.data.elections %}
 ### Выборы №{{ election.number }}
 * **Дата:** {{ election.date }}
