@@ -3,6 +3,25 @@
   winner: "Имя_Игрока"
   candidates:
     - name: "Имя_Игрока"
-      votes: "50%"
+      votes: "35%"
     - name: "Другой_Игрок"
-      votes: "50%"
+      votes: "25%"
+    - name: "Ещё_Игрок"
+      votes: "40%"
+round2:
+    candidates:
+      - name: "Имя_Игрока"
+        votes: "60%"
+      - name: "Другой_Игрок"
+        votes: "40%"
+
+- number: "2"
+  date: "31.08.26"
+  winner: "Имя_Игрока"
+  candidates:
+    - name: "Имя_Игрока"
+      votes: "70%"
+    - name: "Другой_Игрок"
+      votes: "20%"
+    - name: "Ещё_Игрок"
+      votes: "10%"
