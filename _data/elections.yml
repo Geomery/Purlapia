@@ -8,7 +8,7 @@
       votes: "25%"
     - name: "Ещё_Игрок"
       votes: "40%"
-round2:
+  round2:
     candidates:
       - name: "Имя_Игрока"
         votes: "60%"
