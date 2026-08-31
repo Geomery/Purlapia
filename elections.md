@@ -10,10 +10,17 @@ permalink: /elections/
 * **Дата:** {{ election.date }}
 * **Народный Депутат:** **{{ election.winner }}**
 
-**Результаты голосования:**
+**Результаты 1 тура:**
 {% for candidate in election.candidates %}
 * {{ candidate.name }} — {{ candidate.votes }} голосов
 {% endfor %}
+
+{% if election.round2 %}
+**Результаты 2 тура:**
+{% for candidate in election.round2.candidates %}
+* {{ candidate.name }} — {{ candidate.votes }} голосов
+{% endfor %}
+{% endif %}
 
 ---
 {% endfor %}
